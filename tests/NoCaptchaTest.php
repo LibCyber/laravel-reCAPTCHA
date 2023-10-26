@@ -1,6 +1,6 @@
 <?php
 
-use Misechow\NoCaptcha\NoCaptcha;
+use LibCyber\NoCaptcha\NoCaptcha;
 
 class NoCaptchaTest extends PHPUnit_Framework_TestCase
 {

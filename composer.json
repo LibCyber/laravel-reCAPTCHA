@@ -1,12 +1,12 @@
 {
-    "name": "misechow/no-captcha",
+    "name": "libcyber/no-captcha",
     "description": "No CAPTCHA reCAPTCHA For Laravel5.",
-    "keywords": ["misechow", "recaptcha", "no-captcha", "captcha", "laravel", "laravel5"],
+    "keywords": ["LibCyber", "recaptcha", "no-captcha", "captcha", "laravel", "laravel5"],
     "license": "MIT",
     "authors": [
         {
-            "name": "misechow",
-            "email": "mise3uc@gmail.com"
+            "name": "LibCyber",
+            "email": "libcyberstudio@gmail.com"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Misechow\\NoCaptcha\\": "src/"
+            "LibCyber\\NoCaptcha\\": "src/"
         }
     }
 }
